@@ -7,7 +7,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sofiabsv)
 [![BASH](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/sofiabsv)
 [![CPP](https://img.shields.io/badge/C++-00599D?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/sofiabsv)
-[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sofiabsv)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/sofiabsv)
 
 ## OS
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/sofiabsv)
@@ -38,6 +38,6 @@
 
 <p align="center">
   <a href="https://github.com/sofiabsv">
-    <img src="https://komarev.com/ghpvc/?username=sofiabsv&color=white&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=sofiabsv&color=blue&style=flat)" />
   </a>
 </p>
