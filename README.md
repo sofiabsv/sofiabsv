@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Sofia!</h1>
+<h1 align="center">Hi, I'm Sofia !<img src="https://i.pinimg.com/originals/d9/63/a3/d963a3be86c3624aac4bc03c8a7d62aa.gif" height="60" /></h1> 
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+</div>
+
 
 ## Technologies
 
@@ -7,7 +12,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sofiabsv)
 [![BASH](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/sofiabsv)
 [![CPP](https://img.shields.io/badge/C++-00599D?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/sofiabsv)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/sofiabsv)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sofiabsv)
 
 ## OS
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/sofiabsv)
