@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sofia !<h1>
+<h1 align="center">Hi, I'm Sofia !</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p>Aspiring Full-Stack Developer eager to learn and grow my skill set. Feel free to reach out!</p>
+<h3 align="center">Excited to evolve my skills in development and explore new technologies. Feel free to reach out!</h3>
 
 ## Languages
 
