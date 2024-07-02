@@ -2,32 +2,41 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Media+Informatics+Student,;Aspiring+Full-Stack+Developer,;Passionate+about+Web+Development,;Motivated+to+learn+and+grow,;Enjoying+the+Journey," alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Media+Informatics+Student,;Aspiring+Full-Stack+Developer,;Passionate+about+Web+Development,;Motivated+to+learn+and+grow,;Enjoying+the+Journey🌼," alt="Typing SVG">
   </a>
 </p>
 
 <h3 align="center">Excited to evolve my skills in development and explore new technologies. Feel free to reach out!</h3>
 
-## Languages
+<h1></h1>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/sofiabsv)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sofiabsv)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sofiabsv)
-[![CPP](https://img.shields.io/badge/C++-00599D?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/sofiabsv)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/sofiabsv)
+<img align="right" alt="Code Cat" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-## OS
+<h3>Technologies</h3>
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/sofiabsv)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sofiabsv)
+<p>
+  <a href="https://github.com/sofiabsv">
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,html,css,js,bash,linux,windows&perline=9" />
+  </a>
+</p>
 
-## Contact
+<h3>Contact</h3>
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=sofiaxberdichevska@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm)
+<p>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sofiaxberdichevska@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/500360887933206528"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
 
-## Stats
+<h1></h1>
 
-<details>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h1></h1>
+
+<h3>Stats</h3>
+
 <p align="center">
   <a href="https://github.com/sofiabsv">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiabsv&theme=transparent" />
@@ -39,7 +48,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofiabsv&theme=transparent" />
   </a>
 </p>
-</details>
+
+<h1></h1>
 <p align="center">
   <a href="https://github.com/sofiabsv">
     <img src="https://komarev.com/ghpvc/?username=sofiabsv&color=blue&style=flat)" />
