@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Sofia !<h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Media+Informatics+Student,;Aspiring+Full-Stack+Developer,;Passionate+about+Web+Development,;Motivated+to+learn+and+grow,;Enjoying the Journey🌼;" alt="Typing SVG">
+  </a>
+</p>
+
 <p>Aspiring Full-Stack Developer eager to learn and grow my skill set. Feel free to reach out!</p>
 
 ## Languages
@@ -11,6 +17,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/sofiabsv)
 
 ## OS
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/sofiabsv)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sofiabsv)
 
