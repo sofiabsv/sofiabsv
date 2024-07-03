@@ -11,8 +11,9 @@
 <h1></h1>
 
 <p>
-<img align="right" width="320" alt="Code Cat" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></p>
+<img align="right" width="340" alt="Code Cat" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></p>
 
+<br>
 <h3>Technologies</h3>
 
 <p>
@@ -27,6 +28,7 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=sofiaxberdichevska@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/500360887933206528"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
+<br>
 <h1></h1>
 
 <div align="center">
