@@ -24,8 +24,7 @@
 <h3>Contact</h3>
 
 <p>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sofiaxberdichevska@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/500360887933206528"><img src="https://skillicons.dev/icons?i=discord"/></a>
-</p>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sofiaxberdichevska@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/>
 
 <br>
 <h1></h1>
