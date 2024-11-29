@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/sofiabsv">
-    <img src="https://skillicons.dev/icons?i=git,cpp,java,html,css,js,bash,linux,windows&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,html,css,js,bootstrap,bash,linux,windows&perline=9" />
   </a>
 </p>
 
