@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=false&multiline=true&repeat=false&random=false&width=1300&height=120&lines=Hi+%2C+I'm+Sofia+!" width="70%" />
+## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=808080&center=false&multiline=true&repeat=false&random=false&width=800&height=80&lines=Hi+%2C+I'm+Sofia+!" width="100%" />
 
 > “In the middle of difficulty lies opportunity.”  - Albert Einstein
 
