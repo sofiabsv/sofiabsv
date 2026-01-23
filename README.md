@@ -3,7 +3,7 @@
 > “In the middle of difficulty lies opportunity.”  - Albert Einstein
 
 🎓 **Media Informatics student at HTWK Leipzig (5th semester)**  
-⚙️ Passionate about software development and constantly learning new technologies
+⚙️ Passionate about software development, design and constantly learning new technologies
 
 
 ### Technology
